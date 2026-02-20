@@ -68386,5 +68386,17 @@
     "start_date_local": "2026-02-18T15:52:25",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21923048038",
+    "moving_time": 4104.23681640625,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-02-19T17:12:37",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
