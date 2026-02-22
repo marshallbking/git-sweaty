@@ -68422,5 +68422,41 @@
     "start_date_local": "2026-02-21T08:29:29",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21941540247",
+    "moving_time": 5977.51904296875,
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-02-21T11:24:10",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 218.42999267578125,
+    "elevation_gain": 34.0,
+    "id": "21942073554",
+    "moving_time": 328.0,
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-02-21T14:02:45",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21942768420",
+    "moving_time": 3976.278076171875,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-02-21T15:24:18",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
