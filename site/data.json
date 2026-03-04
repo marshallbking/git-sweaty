@@ -39997,6 +39997,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 12,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 5,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -87460,6 +87474,15 @@
           "distance": 5199.22021484375,
           "elevation_gain": 116.0,
           "moving_time": 1941.4179916381836
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22050479070"
+          ],
+          "count": 1,
+          "distance": 5239.85986328125,
+          "elevation_gain": 136.0,
+          "moving_time": 1956.329002380371
         }
       },
       "Walk": {
@@ -88127,11 +88150,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4325.634765625
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "22058318429"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4394.93994140625
         }
       }
     }
   },
-  "generated_at": "2026-03-03T17:30:39.571645+00:00",
+  "generated_at": "2026-03-04T17:11:30.282446+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
