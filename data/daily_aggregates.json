@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:08:40.466842+00:00",
+  "generated_at": "2026-04-02T16:03:06.673419+00:00",
   "years": {
     "2005": {
       "Walk": {
@@ -47515,6 +47515,33 @@
           "distance": 5193.2001953125,
           "elevation_gain": 193.0,
           "moving_time": 1901.9710006713867
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "22318377402"
+          ],
+          "count": 1,
+          "distance": 5657.06005859375,
+          "elevation_gain": 73.0,
+          "moving_time": 2054.638999938965
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22348125914"
+          ],
+          "count": 1,
+          "distance": 5641.14990234375,
+          "elevation_gain": 97.0,
+          "moving_time": 2065.403007507324
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "22371270741"
+          ],
+          "count": 1,
+          "distance": 6449.6298828125,
+          "elevation_gain": 84.0,
+          "moving_time": 2365.4670028686523
         }
       },
       "Walk": {
@@ -47688,6 +47715,15 @@
           "distance": 1733.239990234375,
           "elevation_gain": 52.0,
           "moving_time": 1295.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22359593273"
+          ],
+          "count": 1,
+          "distance": 1748.6700439453125,
+          "elevation_gain": 14.0,
+          "moving_time": 1313.0
         }
       },
       "WeightTraining": {
@@ -47771,6 +47807,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5415.40087890625
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "22330214377"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6353.10107421875
         }
       },
       "Workout": {
@@ -47837,6 +47882,15 @@
           "distance": 660.1500244140625,
           "elevation_gain": 39.0,
           "moving_time": 1063.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "22341973495"
+          ],
+          "count": 1,
+          "distance": 190.2899932861328,
+          "elevation_gain": 9.0,
+          "moving_time": 278.0
         }
       },
       "Yoga": {
@@ -48353,6 +48407,60 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4343.56298828125
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "22311171535"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4145.44677734375
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "22320809874"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4339.5068359375
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "22343145030"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4306.93798828125
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22354405503"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4152.10009765625
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22366046444"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4404.4248046875
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "22374908170"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3932.5439453125
         }
       }
     }
