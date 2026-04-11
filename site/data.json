@@ -40277,6 +40277,111 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 11,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 16,
+      "subtype": "other",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 11,
+      "subtype": "other",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 12,
+      "subtype": "other",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 15,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 11,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 7,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 17,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 11,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 7,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 17,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 16,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -87830,6 +87935,33 @@
           "distance": 6444.72021484375,
           "elevation_gain": 82.0,
           "moving_time": 2376.8720092773438
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "22426825827"
+          ],
+          "count": 1,
+          "distance": 6455.4501953125,
+          "elevation_gain": 114.0,
+          "moving_time": 2448.0429916381836
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "22452183817"
+          ],
+          "count": 1,
+          "distance": 6484.77001953125,
+          "elevation_gain": 76.0,
+          "moving_time": 2390.0910110473633
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "22476683435"
+          ],
+          "count": 1,
+          "distance": 6616.72021484375,
+          "elevation_gain": 59.0,
+          "moving_time": 2403.2589950561523
         }
       },
       "Walk": {
@@ -88021,6 +88153,24 @@
           "distance": 1749.9200439453125,
           "elevation_gain": 24.0,
           "moving_time": 1246.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "22439040926"
+          ],
+          "count": 1,
+          "distance": 1752.530029296875,
+          "elevation_gain": 32.0,
+          "moving_time": 1289.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "22465277844"
+          ],
+          "count": 1,
+          "distance": 1732.050048828125,
+          "elevation_gain": 10.0,
+          "moving_time": 1370.0
         }
       },
       "WeightTraining": {
@@ -88113,6 +88263,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6353.10107421875
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "22408600127"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5786.54296875
         }
       },
       "Workout": {
@@ -88188,6 +88347,25 @@
           "distance": 190.2899932861328,
           "elevation_gain": 9.0,
           "moving_time": 278.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "22410047788"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3798.68701171875
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "22418908525",
+            "22419417959"
+          ],
+          "count": 2,
+          "distance": 345.05999755859375,
+          "elevation_gain": 23.0,
+          "moving_time": 3840.779052734375
         }
       },
       "Yoga": {
@@ -88767,11 +88945,65 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4289.80908203125
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "22420612177"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3840.262939453125
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "22430931417"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4137.35888671875
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "22446224990"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4084.083984375
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "22456871888"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4079.06005859375
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "22471589846"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3999.39697265625
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "22481795897"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4204.7138671875
         }
       }
     }
   },
-  "generated_at": "2026-04-03T15:41:30.169855+00:00",
+  "generated_at": "2026-04-11T15:37:38.886660+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
