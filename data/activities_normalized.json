@@ -69418,5 +69418,53 @@
     "start_date_local": "2026-04-18T11:15:08",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 277.04998779296875,
+    "elevation_gain": 12.0,
+    "id": "22585792562",
+    "moving_time": 438.0,
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-04-19T11:32:00",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22587864007",
+    "moving_time": 4569.26318359375,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-04-19T15:19:10",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1734.9300537109375,
+    "elevation_gain": 30.0,
+    "id": "22588323671",
+    "moving_time": 1326.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-04-19T17:46:50",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 6443.759765625,
+    "elevation_gain": 127.0,
+    "id": "22593108498",
+    "moving_time": 2422.0129928588867,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-20T07:00:08",
+    "type": "Run",
+    "year": 2026
   }
 ]
