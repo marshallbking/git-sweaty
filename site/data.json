@@ -40599,6 +40599,13 @@
       "subtype": "walking",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -88242,6 +88249,15 @@
           "distance": 6447.31982421875,
           "elevation_gain": 147.0,
           "moving_time": 2521.2420043945312
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "22702100866"
+          ],
+          "count": 1,
+          "distance": 6446.97998046875,
+          "elevation_gain": 134.0,
+          "moving_time": 2352.0739974975586
         }
       },
       "Walk": {
@@ -89499,7 +89515,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:55:38.595750+00:00",
+  "generated_at": "2026-04-29T16:44:21.559434+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
