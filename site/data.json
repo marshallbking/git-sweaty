@@ -40893,6 +40893,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 11,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -90167,11 +90174,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4220.23095703125
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "22951409397"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4233.3779296875
         }
       }
     }
   },
-  "generated_at": "2026-05-20T17:54:44.407206+00:00",
+  "generated_at": "2026-05-21T17:31:14.224166+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
