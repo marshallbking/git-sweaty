@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:03:16.420737+00:00",
+  "generated_at": "2026-05-25T17:09:05.339794+00:00",
   "years": {
     "2005": {
       "Walk": {
@@ -47731,6 +47731,15 @@
           "distance": 6473.2900390625,
           "elevation_gain": 88.0,
           "moving_time": 2339.3620071411133
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "23007187565"
+          ],
+          "count": 1,
+          "distance": 6474.77001953125,
+          "elevation_gain": 94.0,
+          "moving_time": 2471.8470153808594
         }
       },
       "Walk": {
@@ -48369,6 +48378,15 @@
           "distance": 1154.1600341796875,
           "elevation_gain": 46.0,
           "moving_time": 1533.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "22999361531"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 10456.7060546875
         }
       },
       "Yoga": {
@@ -49299,6 +49317,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4419.60107421875
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "23000464395"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4148.208984375
         }
       }
     }
