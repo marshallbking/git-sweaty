@@ -70282,5 +70282,41 @@
     "start_date_local": "2026-05-30T14:39:51",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23084893667",
+    "moving_time": 4110.2119140625,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-05-31T15:26:36",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 6457.169921875,
+    "elevation_gain": 57.0,
+    "id": "23090528793",
+    "moving_time": 2362.7109985351562,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-01T07:01:02",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23094326664",
+    "moving_time": 4167.296875,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-01T11:53:50",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
