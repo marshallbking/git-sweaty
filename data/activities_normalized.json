@@ -70390,5 +70390,17 @@
     "start_date_local": "2026-06-05T16:26:45",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23155556417",
+    "moving_time": 5296.10107421875,
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-06T12:34:53",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
