@@ -70714,5 +70714,29 @@
     "start_date_local": "2026-06-24T06:52:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23366817824",
+    "moving_time": 4041.989990234375,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-06-24T11:55:40",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 1731.8199462890625,
+    "elevation_gain": 5.0,
+    "id": "23374605626",
+    "moving_time": 1302.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-25T06:56:26",
+    "type": "Walk",
+    "year": 2026
   }
 ]
