@@ -41299,6 +41299,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 11,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 6,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -89538,6 +89552,15 @@
           "distance": 1731.8199462890625,
           "elevation_gain": 5.0,
           "moving_time": 1302.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "23429073406"
+          ],
+          "count": 1,
+          "distance": 1720.2900390625,
+          "elevation_gain": 1.0,
+          "moving_time": 1176.0
         }
       },
       "WeightTraining": {
@@ -91095,11 +91118,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4565.5
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "23421122248"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3910.0380859375
         }
       }
     }
   },
-  "generated_at": "2026-06-29T17:40:23.477182+00:00",
+  "generated_at": "2026-06-30T17:07:30.431588+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
