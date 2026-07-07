@@ -70870,5 +70870,17 @@
     "start_date_local": "2026-07-06T07:38:54",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 1723.72998046875,
+    "elevation_gain": 17.0,
+    "id": "23510289738",
+    "moving_time": 1199.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-07T07:24:48",
+    "type": "Walk",
+    "year": 2026
   }
 ]
