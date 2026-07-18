@@ -41460,6 +41460,27 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 16,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 7,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 10,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -89816,6 +89837,15 @@
           "distance": 1744.8199462890625,
           "elevation_gain": 12.0,
           "moving_time": 1278.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "23642219919"
+          ],
+          "count": 1,
+          "distance": 1726.8699951171875,
+          "elevation_gain": 21.0,
+          "moving_time": 1200.0
         }
       },
       "WeightTraining": {
@@ -91463,11 +91493,31 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4044.6220703125
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "23635529130"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4472.791015625
+        }
+      },
+      "meditation": {
+        "2026-07-18": {
+          "activity_ids": [
+            "23643738325"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.9990234375
         }
       }
     }
   },
-  "generated_at": "2026-07-17T16:17:21.048314+00:00",
+  "generated_at": "2026-07-18T15:59:47.635386+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
@@ -91608,8 +91658,8 @@
     "breathwork",
     "stair_climbing",
     "skating_ws",
-    "floor_climbing",
     "meditation",
+    "floor_climbing",
     "multi_sport",
     "stand_up_paddleboarding_v2",
     "whitewater_rafting_kayaking",
