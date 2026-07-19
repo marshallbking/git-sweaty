@@ -71110,5 +71110,41 @@
     "start_date_local": "2026-07-18T10:03:54",
     "type": "meditation",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23645452043",
+    "moving_time": 5182.39208984375,
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-18T11:23:01",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 875.9000244140625,
+    "elevation_gain": 53.0,
+    "id": "23646450375",
+    "moving_time": 1301.0,
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-07-18T13:46:36",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23654278150",
+    "moving_time": 600.218017578125,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-07-19T08:26:05",
+    "type": "meditation",
+    "year": 2026
   }
 ]
