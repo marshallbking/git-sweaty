@@ -41607,6 +41607,27 @@
       "subtype": "meditation",
       "type": "meditation",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 11,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 19,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 9,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -90199,6 +90220,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5182.39208984375
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "23730700426"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4025.159912109375
         }
       },
       "Workout": {
@@ -91801,11 +91831,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 600.9990234375
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "23733022793"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.9990234375
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "23740165729"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.9990234375
         }
       }
     }
   },
-  "generated_at": "2026-07-25T16:06:03.492407+00:00",
+  "generated_at": "2026-07-26T16:03:34.896325+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
