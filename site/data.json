@@ -41649,6 +41649,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 11,
+      "subtype": "yoga",
+      "type": "Yoga",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 18,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -91823,6 +91837,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3972.740966796875
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "23753642423"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3953.341064453125
         }
       },
       "meditation": {
@@ -91897,11 +91920,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 600.9990234375
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "23756326128"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.9990234375
         }
       }
     }
   },
-  "generated_at": "2026-07-27T17:00:06.495055+00:00",
+  "generated_at": "2026-07-28T16:42:00.486557+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
@@ -92041,8 +92073,8 @@
     "Yoga",
     "breathwork",
     "stair_climbing",
-    "skating_ws",
     "meditation",
+    "skating_ws",
     "floor_climbing",
     "multi_sport",
     "stand_up_paddleboarding_v2",
