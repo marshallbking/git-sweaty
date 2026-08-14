@@ -71722,5 +71722,17 @@
     "start_date_local": "2026-08-12T11:55:16",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 6447.330078125,
+    "elevation_gain": 135.0,
+    "id": "23964996616",
+    "moving_time": 3232.0089721679688,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-08-13T11:27:50",
+    "type": "Walk",
+    "year": 2026
   }
 ]
