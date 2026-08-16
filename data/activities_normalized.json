@@ -71758,5 +71758,29 @@
     "start_date_local": "2026-08-14T16:27:26",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23990079046",
+    "moving_time": 6244.416015625,
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-08-15T11:35:24",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 642.5399780273438,
+    "elevation_gain": 32.0,
+    "id": "23990851786",
+    "moving_time": 931.0,
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-08-15T14:15:55",
+    "type": "Workout",
+    "year": 2026
   }
 ]
