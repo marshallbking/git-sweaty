@@ -71974,5 +71974,29 @@
     "start_date_local": "2026-08-26T08:52:44",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 1668.8699951171875,
+    "elevation_gain": 97.0,
+    "id": "24127236219",
+    "moving_time": 1375.0,
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-26T11:30:22",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 7427.93994140625,
+    "elevation_gain": 186.0,
+    "id": "24137389309",
+    "moving_time": 2882.9959716796875,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-27T08:07:02",
+    "type": "Run",
+    "year": 2026
   }
 ]
