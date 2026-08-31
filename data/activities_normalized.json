@@ -72046,5 +72046,17 @@
     "start_date_local": "2026-08-30T09:50:04",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 4431.08984375,
+    "elevation_gain": 254.0,
+    "id": "24177132314",
+    "moving_time": 2996.0,
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-30T12:55:23",
+    "type": "Hike",
+    "year": 2026
   }
 ]
