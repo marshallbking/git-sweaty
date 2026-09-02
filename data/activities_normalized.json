@@ -72058,5 +72058,17 @@
     "start_date_local": "2026-08-30T12:55:23",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 8238.98046875,
+    "elevation_gain": 262.0,
+    "id": "24202952161",
+    "moving_time": 3152.656982421875,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-01T15:11:21",
+    "type": "Run",
+    "year": 2026
   }
 ]
