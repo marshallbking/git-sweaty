@@ -72130,5 +72130,17 @@
     "start_date_local": "2026-09-06T06:56:48",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24277873798",
+    "moving_time": 6547.671875,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-09-07T16:16:17",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
