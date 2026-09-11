@@ -72154,5 +72154,29 @@
     "start_date_local": "2026-09-09T06:29:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24315920437",
+    "moving_time": 4049.989990234375,
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-09-10T17:10:08",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 8149.830078125,
+    "elevation_gain": 236.0,
+    "id": "24321600938",
+    "moving_time": 2904.8590087890625,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-11T06:39:19",
+    "type": "Run",
+    "year": 2026
   }
 ]
